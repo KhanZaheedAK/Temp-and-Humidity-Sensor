@@ -83,18 +83,6 @@ Through this project, you learn:
 * Displaying real-time sensor values
 * Basic sensor-to-display communication
 
----
-
-## 📂 Project Structure
-
-```text
-Temperature-Humidity-Sensor/
-│
-├── Temperature_Humidity_Sensor.ino
-├── README.md
-└── circuit/
-    └── connections.txt
-```
 
 ---
 
@@ -104,5 +92,3 @@ Temperature-Humidity-Sensor/
 **Sensor Series 1.0**
 
 Built and documented by **Robotics With ZK** 🤖
-
-#Arduino #Robotics #Electronics #Engineering #RoboticsWithZK
